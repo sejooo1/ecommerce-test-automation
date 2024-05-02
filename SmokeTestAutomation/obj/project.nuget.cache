@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLGGkfXxSNK8F12mt4cHjF2jiWuadhRnMnKxunbjsUFi3TsTbmpO2ww4aQttiIBki5GXYRqHPcRHYE/WNnXwww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DT User\\source\\repos\\SmokeTestAutomation\\SmokeTestAutomation\\SmokeTestAutomation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DT User\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\microsoft.net.test.sdk\\17.1.0\\microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\selenium.support\\4.20.0\\selenium.support.4.20.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\selenium.webdriver\\4.20.0\\selenium.webdriver.4.20.0.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\selenium.webdriver.chromedriver\\124.0.6367.9100\\selenium.webdriver.chromedriver.124.0.6367.9100.nupkg.sha512",
+    "C:\\Users\\DT User\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
