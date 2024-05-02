@@ -2,6 +2,8 @@
 
 This repository contains automated testing project for a demo e-commerce application, including test plan, test cases, automated smoke tests, and bug reports.
 
+The testing project is conducted on the demo e-commerce application available at [https://demo.nopcommerce.com/](https://demo.nopcommerce.com/). This application serves as a simulated environment for testing various functionalities and scenarios.
+
 ### Prerequisites
 
 #### Visual Studio:
@@ -53,3 +55,14 @@ This repository contains automated testing project for a demo e-commerce applica
 ### Test Results
 
 Regardless of whether you run the tests through Visual Studio or the CLI, you'll receive detailed test results indicating which tests passed and which ones failed. You can use these results to verify the functionality of the SmokeTestAutomation project.
+
+### Tasks
+
+1. Write Test Cases: Concentrate on real user flows and create comprehensive test cases for the application.
+Find the detailed test cases in the docs folder under the files Test Cases.pdf
+2. Identify Smoke Tests: Determine which test cases represent a Smoke Test.
+Review the identified Smoke Tests in the docs folder in the document Identification of Smoke Tests.pdf.
+3. Report Positive and Negative Test Cases: Differentiate between positive and negative test cases.
+Refer to the document Positive and Negative Test Cases.pdf for the identified positive and negative test cases in the docs folder.
+4. Report Bugs: If any bugs are found during testing, report them with detailed steps to reproduce.
+Refer to the document Bug Report.pdf in the docs folder for reported bugs and steps to reproduce them.
